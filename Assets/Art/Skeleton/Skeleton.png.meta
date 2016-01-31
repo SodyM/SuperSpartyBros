@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: b0a516efc2a0acf43819ea106ab1b395
+timeCreated: 1454268624
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skeleton_Iddle1
+    21300002: Skeleton_Iddle2
+    21300004: Skeleton_Iddle3
+    21300006: Skeleton_Iddle4
+    21300008: Skeleton_Iddle5
+    21300010: Skeleton_Iddle6
+    21300012: Skeleton_Iddle7
+    21300014: Skeleton_Iddle8
+    21300016: Skeleton_8
+    21300018: Skeleton_9
+    21300020: Skeleton_10
+    21300022: Skeleton_11
+    21300024: Skeleton_12
+    21300026: Skeleton_13
+    21300028: Skeleton_14
+    21300030: Skeleton_15
+    21300032: Skeleton_16
+    21300034: Skeleton_17
+    21300036: Skeleton_18
+    21300038: Skeleton_19
+    21300040: Skeleton_20
+    21300042: Skeleton_21
+    21300044: Skeleton_22
+    21300046: Skeleton_23
+    21300048: Skeleton_24
+    21300050: Skeleton_25
+    21300052: Skeleton_26
+    21300054: Skeleton_27
+    21300056: Skeleton_28
+    21300058: Skeleton_29
+    21300060: Skeleton_30
+    21300062: Skeleton_31
+    21300064: Skeleton_32
+    21300066: Skeleton_33
+    21300068: Skeleton_34
+    21300070: Skeleton_35
+    21300072: Skeleton_36
+    21300074: Skeleton_37
+    21300076: Skeleton_38
+    21300078: Skeleton_39
+    21300080: Skeleton_40
+    21300082: Skeleton_41
+    21300084: Skeleton_42
+    21300086: Skeleton_43
+    21300088: Skeleton_44
+    21300090: Skeleton_45
+    21300092: Skeleton_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Skeleton_Iddle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Skeleton_Iddle2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Skeleton_Iddle3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 203
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Skeleton_Iddle4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 203
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Skeleton_Iddle5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 203
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Skeleton_Iddle6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 203
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Skeleton_Iddle7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 203
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Skeleton_Iddle8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 203
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 191.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -15.800003}
+        - {x: -11, y: -21.800003}
+        - {x: -11, y: -23.800003}
+        - {x: -3, y: -23.800003}
+        - {x: 1, y: -20.800003}
+        - {x: 1, y: -17.800003}
+        - {x: 0, y: -15.800003}
+    - name: Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -9.800003}
+        - {x: -9, y: -15.800003}
+        - {x: -9, y: -22.800003}
+        - {x: -8, y: -23.800003}
+        - {x: 6, y: -23.800003}
+        - {x: 5, y: -13.800003}
+        - {x: -1, y: -9.800003}
+      - - {x: -7, y: 23.199997}
+        - {x: -8, y: 22.199997}
+        - {x: -10, y: 14.199997}
+        - {x: -10, y: 5.199997}
+        - {x: -5, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 16.199997}
+        - {x: 1, y: 23.199997}
+    - name: Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -6.800003}
+        - {x: -10, y: -7.800003}
+        - {x: -11, y: -12.800003}
+        - {x: -11, y: -20.800003}
+        - {x: -8, y: -23.800003}
+        - {x: 6, y: -23.800003}
+        - {x: 6, y: -12.800003}
+        - {x: -5, y: -6.800003}
+      - - {x: -16, y: 23.199997}
+        - {x: -16, y: 7.199997}
+        - {x: -6, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 16.199997}
+        - {x: 4, y: 23.199997}
+    - name: Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -7.800003}
+        - {x: -8, y: -8.800003}
+        - {x: -10, y: -20.800003}
+        - {x: -10, y: -23.800003}
+        - {x: 6, y: -23.800003}
+        - {x: 6, y: -11.800003}
+        - {x: -1, y: -7.800003}
+      - - {x: -13, y: 24.199997}
+        - {x: -13, y: 6.199997}
+        - {x: -10, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 20.199997}
+        - {x: 1, y: 24.199997}
+    - name: Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -10.800003}
+        - {x: -8, y: -14.800003}
+        - {x: -9, y: -17.800003}
+        - {x: -9, y: -20.800003}
+        - {x: -5, y: -23.800003}
+        - {x: 6, y: -23.800003}
+        - {x: 5, y: -13.800003}
+        - {x: 3, y: -10.800003}
+      - - {x: 3, y: 24.199997}
+        - {x: -7, y: 24.199997}
+        - {x: -8, y: 23.199997}
+        - {x: -8, y: 3.199997}
+        - {x: -7, y: 1.199997}
+        - {x: -4, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 15.199997}
+        - {x: 5, y: 22.199997}
+    - name: Skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8.800003}
+        - {x: -9, y: -10.800003}
+        - {x: -9, y: -20.800003}
+        - {x: -8, y: -23.800003}
+        - {x: 6, y: -23.800003}
+        - {x: 6, y: -13.800003}
+        - {x: -3, y: -8.800003}
+      - - {x: -7, y: 24.199997}
+        - {x: -7, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 15.199997}
+        - {x: 4, y: 24.199997}
+    - name: Skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6.800003}
+        - {x: -8, y: -7.800003}
+        - {x: -9, y: -15.800003}
+        - {x: -9, y: -21.800003}
+        - {x: -7, y: -23.800003}
+        - {x: 6, y: -23.800003}
+        - {x: 6, y: -13.800003}
+        - {x: -2, y: -6.800003}
+      - - {x: -7, y: 24.199997}
+        - {x: -7, y: 1.199997}
+        - {x: -4, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 14.199997}
+        - {x: 4, y: 24.199997}
+    - name: Skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -12.800003}
+        - {x: -9, y: -16.800003}
+        - {x: -9, y: -21.800003}
+        - {x: -7, y: -23.800003}
+        - {x: 6, y: -23.800003}
+        - {x: 5, y: -14.800003}
+        - {x: 2, y: -10.800003}
+        - {x: -3, y: -10.800003}
+      - - {x: -5, y: -10.800003}
+        - {x: -2, y: -9.800003}
+        - {x: -2, y: -6.800003}
+        - {x: -5, y: -5.800003}
+        - {x: -7, y: -7.800003}
+      - - {x: -7, y: 24.199997}
+        - {x: -7, y: 1.199997}
+        - {x: -6, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 23.199997}
+        - {x: 3, y: 24.199997}
+    - name: Skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -10.800003}
+        - {x: -7, y: -14.800003}
+        - {x: -10, y: -19.800003}
+        - {x: -10, y: -22.800003}
+        - {x: -9, y: -23.800003}
+        - {x: 6, y: -23.800003}
+        - {x: 6, y: -11.800003}
+        - {x: 3, y: -10.800003}
+      - - {x: -7, y: 24.199997}
+        - {x: -7, y: 1.199997}
+        - {x: -4, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 14.199997}
+        - {x: 4, y: 24.199997}
+    - name: Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -18.800003}
+        - {x: -8, y: -19.800003}
+        - {x: -5, y: -23.800003}
+        - {x: 6, y: -23.800003}
+        - {x: 6, y: -13.800003}
+        - {x: 2, y: -9.800003}
+        - {x: -3, y: -9.800003}
+        - {x: -6, y: -10.800003}
+      - - {x: -13, y: 24.199997}
+        - {x: -13, y: 12.199997}
+        - {x: -11, y: 0.19999695}
+        - {x: 8, y: 0.19999695}
+        - {x: 10, y: 1.199997}
+        - {x: 10, y: 20.199997}
+        - {x: 1, y: 24.199997}
+    - name: Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 23.199997}
+        - {x: -5, y: 16.199997}
+        - {x: -4, y: 15.199997}
+        - {x: -4, y: 10.199997}
+        - {x: -4, y: 11.199997}
+        - {x: -6, y: 18.199997}
+        - {x: -8, y: 20.199997}
+        - {x: -11, y: 19.199997}
+        - {x: -11, y: 5.199997}
+        - {x: -3, y: 0.19999695}
+        - {x: 10, y: 0.19999695}
+        - {x: 10, y: 20.199997}
+        - {x: 2, y: 23.199997}
+    - name: Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22.199997}
+        - {x: -14, y: 13.199997}
+        - {x: -14, y: 6.199997}
+        - {x: -7, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 16.199997}
+        - {x: 4, y: 22.199997}
+      - - {x: -14, y: 20.199997}
+        - {x: -12, y: 18.199997}
+        - {x: -9, y: 19.199997}
+        - {x: -9, y: 22.199997}
+        - {x: -11, y: 24.199997}
+        - {x: -14, y: 23.199997}
+    - name: Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 144.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 23.199997}
+        - {x: -5, y: 23.199997}
+        - {x: -8, y: 22.199997}
+        - {x: -9, y: 17.199997}
+        - {x: -9, y: 0.19999695}
+        - {x: 6, y: 0.19999695}
+        - {x: 6, y: 3.199997}
+        - {x: 5, y: 18.199997}
+    - name: Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -23.800003}
+        - {x: 5, y: -20.800003}
+        - {x: -6, y: -20.800003}
+        - {x: -7, y: -23.800003}
+      - - {x: -8, y: 4.199997}
+        - {x: -10, y: -4.800003}
+        - {x: -10, y: -13.800003}
+        - {x: -6, y: -18.800003}
+        - {x: 4, y: -18.800003}
+        - {x: 6, y: -17.800003}
+        - {x: 6, y: 1.199997}
+        - {x: 0, y: 4.199997}
+      - - {x: -10, y: 19.199997}
+        - {x: -7, y: 14.199997}
+        - {x: 4, y: 14.199997}
+        - {x: 6, y: 15.199997}
+        - {x: 6, y: 24.199997}
+        - {x: -8, y: 24.199997}
+        - {x: -10, y: 23.199997}
+    - name: Skeleton_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 7.199997}
+        - {x: -7, y: 7.199997}
+        - {x: -8, y: 4.199997}
+        - {x: -10, y: -4.800003}
+        - {x: -10, y: -13.800003}
+        - {x: -5, y: -18.800003}
+        - {x: 4, y: -18.800003}
+        - {x: 7, y: -17.800003}
+        - {x: 7, y: 1.199997}
+        - {x: 1, y: 5.199997}
+      - - {x: -10, y: 19.199997}
+        - {x: -7, y: 14.199997}
+        - {x: 4, y: 14.199997}
+        - {x: 6, y: 15.199997}
+        - {x: 6, y: 24.199997}
+        - {x: -6, y: 24.199997}
+        - {x: -10, y: 23.199997}
+    - name: Skeleton_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 5.199997}
+        - {x: -10, y: -2.800003}
+        - {x: -10, y: -15.800003}
+        - {x: -7, y: -18.800003}
+        - {x: 9, y: -18.800003}
+        - {x: 9, y: 5.199997}
+      - - {x: -8, y: 24.199997}
+        - {x: -8, y: 18.199997}
+        - {x: -4, y: 14.199997}
+        - {x: 4, y: 14.199997}
+        - {x: 6, y: 16.199997}
+        - {x: 6, y: 24.199997}
+    - name: Skeleton_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 5.199997}
+        - {x: -7, y: 4.199997}
+        - {x: -10, y: -7.800003}
+        - {x: -10, y: -13.800003}
+        - {x: -8, y: -18.800003}
+        - {x: 11, y: -18.800003}
+        - {x: 11, y: 5.199997}
+      - - {x: -5, y: 14.199997}
+        - {x: 6, y: 14.199997}
+        - {x: 6, y: 24.199997}
+        - {x: -4, y: 24.199997}
+        - {x: -5, y: 23.199997}
+    - name: Skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 1.199997}
+        - {x: -10, y: -7.800003}
+        - {x: -10, y: -13.800003}
+        - {x: -5, y: -18.800003}
+        - {x: 11, y: -18.800003}
+        - {x: 11, y: -5.800003}
+        - {x: 8, y: 1.199997}
+      - - {x: 7, y: -7.800003}
+        - {x: 10, y: -10.800003}
+        - {x: 13, y: -9.800003}
+        - {x: 13, y: -7.800003}
+        - {x: 10, y: -4.800003}
+        - {x: 8, y: -4.800003}
+      - - {x: -8, y: -3.800003}
+        - {x: -5, y: -2.800003}
+        - {x: -5, y: 0.19999695}
+        - {x: -8, y: 1.199997}
+        - {x: -10, y: -0.80000305}
+      - - {x: 6, y: 0.19999695}
+        - {x: 9, y: 1.199997}
+        - {x: 9, y: 4.199997}
+        - {x: 6, y: 5.199997}
+        - {x: 4, y: 3.199997}
+      - - {x: -6, y: 1.199997}
+        - {x: -3, y: 2.199997}
+        - {x: -3, y: 5.199997}
+        - {x: -6, y: 6.199997}
+        - {x: -8, y: 4.199997}
+      - - {x: -7, y: 24.199997}
+        - {x: -7, y: 14.199997}
+        - {x: 6, y: 14.199997}
+        - {x: 6, y: 24.199997}
+    - name: Skeleton_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -8.800003}
+        - {x: 5, y: 0.19999695}
+        - {x: -3, y: 0.19999695}
+        - {x: -10, y: -9.800003}
+        - {x: -10, y: -13.800003}
+        - {x: -8, y: -18.800003}
+        - {x: 11, y: -18.800003}
+        - {x: 14, y: -15.800003}
+        - {x: 14, y: -8.800003}
+        - {x: 12, y: -7.800003}
+      - - {x: -10, y: -5.800003}
+        - {x: -7, y: -4.800003}
+        - {x: -7, y: -1.800003}
+        - {x: -10, y: -0.80000305}
+        - {x: -12, y: -2.800003}
+      - - {x: 9, y: -0.80000305}
+        - {x: 12, y: 0.19999695}
+        - {x: 12, y: 3.199997}
+        - {x: 9, y: 4.199997}
+        - {x: 7, y: 2.199997}
+      - - {x: -9, y: 0.19999695}
+        - {x: -6, y: 1.199997}
+        - {x: -6, y: 4.199997}
+        - {x: -9, y: 5.199997}
+        - {x: -11, y: 3.199997}
+      - - {x: -7, y: 24.199997}
+        - {x: -7, y: 17.199997}
+        - {x: -4, y: 14.199997}
+        - {x: 4, y: 14.199997}
+        - {x: 6, y: 16.199997}
+        - {x: 6, y: 24.199997}
+    - name: Skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -23.800003}
+        - {x: 2, y: -21.800003}
+        - {x: -1, y: -20.800003}
+        - {x: -3, y: -23.800003}
+      - - {x: -11, y: -12.800003}
+        - {x: -11, y: -16.800003}
+        - {x: -6, y: -18.800003}
+        - {x: 14, y: -18.800003}
+        - {x: 14, y: -5.800003}
+        - {x: 11, y: -0.80000305}
+        - {x: -5, y: -0.80000305}
+      - - {x: -11, y: -9.800003}
+        - {x: -8, y: -8.800003}
+        - {x: -8, y: -5.800003}
+        - {x: -11, y: -4.800003}
+        - {x: -13, y: -6.800003}
+      - - {x: 12, y: -4.800003}
+        - {x: 15, y: -3.800003}
+        - {x: 15, y: -0.80000305}
+        - {x: 12, y: 0.19999695}
+        - {x: 10, y: -1.800003}
+      - - {x: -5, y: 24.199997}
+        - {x: -7, y: 20.199997}
+        - {x: -7, y: 17.199997}
+        - {x: -3, y: 14.199997}
+        - {x: 4, y: 14.199997}
+        - {x: 6, y: 16.199997}
+        - {x: 6, y: 24.199997}
+    - name: Skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -23.800003}
+        - {x: 2, y: -23.800003}
+        - {x: 2, y: -20.800003}
+        - {x: -1, y: -19.800003}
+        - {x: -3, y: -21.800003}
+      - - {x: -5, y: -0.80000305}
+        - {x: -13, y: -8.800003}
+        - {x: -14, y: -10.800003}
+        - {x: -14, y: -17.800003}
+        - {x: -11, y: -18.800003}
+        - {x: 14, y: -18.800003}
+        - {x: 14, y: -0.80000305}
+      - - {x: -8, y: 24.199997}
+        - {x: -8, y: 23.199997}
+        - {x: -7, y: 15.199997}
+        - {x: -4, y: 14.199997}
+        - {x: 6, y: 14.199997}
+        - {x: 6, y: 24.199997}
+    - name: Skeleton_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -23.800003}
+        - {x: 2, y: -23.800003}
+        - {x: 3, y: -20.800003}
+        - {x: 1, y: -18.800003}
+        - {x: -2, y: -19.800003}
+      - - {x: 2, y: -2.800003}
+        - {x: -5, y: -2.800003}
+        - {x: -15, y: -12.800003}
+        - {x: -15, y: -15.800003}
+        - {x: -12, y: -18.800003}
+        - {x: 12, y: -18.800003}
+        - {x: 15, y: -15.800003}
+        - {x: 15, y: -11.800003}
+        - {x: 4, y: -3.800003}
+      - - {x: -7, y: 24.199997}
+        - {x: -10, y: 22.199997}
+        - {x: -10, y: 16.199997}
+        - {x: -3, y: 14.199997}
+        - {x: 6, y: 14.199997}
+        - {x: 6, y: 24.199997}
+    - name: Skeleton_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -23.800003}
+        - {x: 2, y: -22.800003}
+        - {x: 2, y: -19.800003}
+        - {x: -1, y: -18.800003}
+        - {x: -3, y: -20.800003}
+      - - {x: 1, y: -2.800003}
+        - {x: -4, y: -6.800003}
+        - {x: -13, y: -11.800003}
+        - {x: -16, y: -15.800003}
+        - {x: -14, y: -18.800003}
+        - {x: 13, y: -18.800003}
+        - {x: 13, y: -12.800003}
+        - {x: 3, y: -2.800003}
+    - name: Skeleton_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4.800003}
+        - {x: -4, y: -4.800003}
+        - {x: -17, y: -10.800003}
+        - {x: -17, y: -18.800003}
+        - {x: 13, y: -18.800003}
+        - {x: 13, y: -14.800003}
+        - {x: 11, y: -10.800003}
+    - name: Skeleton_32
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -6.800003}
+        - {x: -2, y: -6.800003}
+        - {x: -17, y: -13.800003}
+        - {x: -17, y: -18.800003}
+        - {x: 12, y: -18.800003}
+        - {x: 13, y: -16.800003}
+        - {x: 13, y: -14.800003}
+        - {x: 11, y: -10.800003}
+    - name: Skeleton_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 97.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -10.800003}
+        - {x: -7, y: -10.800003}
+        - {x: -17, y: -13.800003}
+        - {x: -17, y: -18.800003}
+        - {x: 13, y: -18.800003}
+        - {x: 13, y: -13.800003}
+        - {x: 10, y: -11.800003}
+    - name: Skeleton_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 24.2}
+        - {x: -11, y: 24.2}
+        - {x: -17, y: 17.2}
+        - {x: -17, y: -4.799999}
+        - {x: 14, y: -4.799999}
+        - {x: 16, y: -3.7999992}
+        - {x: 16, y: 7.200001}
+        - {x: 15, y: 15.200001}
+    - name: Skeleton_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20.2}
+        - {x: -17, y: 1.2000008}
+        - {x: -17, y: -4.799999}
+        - {x: 12, y: -4.799999}
+        - {x: 13, y: -2.7999992}
+        - {x: 13, y: 3.2000008}
+        - {x: 2, y: 20.2}
+    - name: Skeleton_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22.2}
+        - {x: -17, y: 12.200001}
+        - {x: -17, y: -4.799999}
+        - {x: 13, y: -4.799999}
+        - {x: 13, y: 22.2}
+    - name: Skeleton_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20.2}
+        - {x: -16, y: 8.200001}
+        - {x: -16, y: -3.7999992}
+        - {x: -14, y: -4.799999}
+        - {x: 11, y: -4.799999}
+        - {x: 13, y: -3.7999992}
+        - {x: 13, y: 0.20000076}
+        - {x: 6, y: 20.2}
+    - name: Skeleton_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 11.200001}
+        - {x: -5, y: 11.200001}
+        - {x: -15, y: 1.2000008}
+        - {x: -15, y: -1.7999992}
+        - {x: -13, y: -4.799999}
+        - {x: 12, y: -4.799999}
+        - {x: 15, y: -1.7999992}
+        - {x: 15, y: 2.2000008}
+        - {x: 8, y: 9.200001}
+      - - {x: -3, y: 21.2}
+        - {x: -5, y: 17.2}
+        - {x: -5, y: 14.200001}
+        - {x: -4, y: 12.200001}
+        - {x: 0, y: 12.200001}
+        - {x: 2, y: 13.200001}
+        - {x: 2, y: 19.2}
+        - {x: 1, y: 21.2}
+    - name: Skeleton_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -4.799999}
+        - {x: 14, y: 3.2000008}
+        - {x: 9, y: 13.200001}
+        - {x: -9, y: 13.200001}
+        - {x: -14, y: 11.200001}
+        - {x: -14, y: -4.799999}
+      - - {x: -3, y: 23.2}
+        - {x: -5, y: 16.2}
+        - {x: -3, y: 14.200001}
+        - {x: 0, y: 14.200001}
+        - {x: 2, y: 18.2}
+        - {x: 2, y: 23.2}
+        - {x: 0, y: 24.2}
+    - name: Skeleton_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13.200001}
+        - {x: -15, y: 7.200001}
+        - {x: -15, y: -4.799999}
+        - {x: 14, y: -4.799999}
+        - {x: 14, y: 5.200001}
+        - {x: 8, y: 13.200001}
+      - - {x: 7, y: 5.200001}
+        - {x: 10, y: 6.200001}
+        - {x: 10, y: 9.200001}
+        - {x: 7, y: 10.200001}
+        - {x: 5, y: 8.200001}
+      - - {x: -3, y: 24.2}
+        - {x: -5, y: 19.2}
+        - {x: -3, y: 17.2}
+        - {x: -1, y: 17.2}
+        - {x: 1, y: 19.2}
+        - {x: 2, y: 24.2}
+    - name: Skeleton_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14.200001}
+        - {x: -10, y: 13.200001}
+        - {x: -10, y: -1.7999992}
+        - {x: -9, y: -4.799999}
+        - {x: 13, y: -4.799999}
+        - {x: 14, y: -2.7999992}
+        - {x: 14, y: 14.200001}
+      - - {x: -2, y: 24.2}
+        - {x: -4, y: 22.2}
+        - {x: -4, y: 21.2}
+        - {x: -2, y: 19.2}
+        - {x: -1, y: 19.2}
+        - {x: 2, y: 22.2}
+        - {x: 2, y: 24.2}
+    - name: Skeleton_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 17.2}
+        - {x: -8, y: 15.200001}
+        - {x: -10, y: 2.2000008}
+        - {x: -5, y: -4.799999}
+        - {x: 11, y: -4.799999}
+        - {x: 11, y: 4.200001}
+        - {x: 6, y: 17.2}
+      - - {x: 7, y: 6.200001}
+        - {x: 10, y: 3.2000008}
+        - {x: 13, y: 4.200001}
+        - {x: 13, y: 6.200001}
+        - {x: 10, y: 9.200001}
+        - {x: 8, y: 9.200001}
+      - - {x: 2, y: 22.2}
+        - {x: 2, y: 24.2}
+        - {x: -3, y: 24.2}
+        - {x: -1, y: 21.2}
+    - name: Skeleton_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 19.2}
+        - {x: -7, y: 18.2}
+        - {x: -10, y: 2.2000008}
+        - {x: -3, y: -4.799999}
+        - {x: 8, y: -4.799999}
+        - {x: 11, y: -1.7999992}
+        - {x: 11, y: 17.2}
+        - {x: 10, y: 19.2}
+    - name: Skeleton_44
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19.2}
+        - {x: -10, y: 11.200001}
+        - {x: -10, y: -1.7999992}
+        - {x: -6, y: -4.799999}
+        - {x: 6, y: -4.799999}
+        - {x: 9, y: -1.7999992}
+        - {x: 9, y: 15.200001}
+        - {x: 7, y: 19.2}
+    - name: Skeleton_45
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 18.2}
+        - {x: -10, y: 6.200001}
+        - {x: -10, y: 0.20000076}
+        - {x: -6, y: -4.799999}
+        - {x: 7, y: -4.799999}
+        - {x: 7, y: 16.2}
+        - {x: 2, y: 18.2}
+    - name: Skeleton_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 50.2
+        width: 33.076923
+        height: 47.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18.2}
+        - {x: -6, y: 18.2}
+        - {x: -8, y: 17.2}
+        - {x: -10, y: 9.200001}
+        - {x: -10, y: 0.20000076}
+        - {x: -5, y: -4.799999}
+        - {x: 6, y: -4.799999}
+        - {x: 6, y: 10.200001}
+        - {x: 4, y: 14.200001}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
