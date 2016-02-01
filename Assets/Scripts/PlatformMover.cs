@@ -22,7 +22,7 @@ public class PlatformMover : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		_transform = platform.transform;
+        _transform = platform.transform;
 		_moveTime = 0f;
 		_moving = true;
 	}
