@@ -1,51 +1,44 @@
-Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: AMD Mobility Radeon HD 5000 Series (ID=0x68c1)
-    Vendor:   ATI
-    VRAM:     1014 MB
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA Quadro FX 880M (ID=0xa3c)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Projects\SuperSpartyBros\test_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Projects\SuperSpartyBros\test_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Projects\SuperSpartyBros\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Projects\SuperSpartyBros\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Projects\SuperSpartyBros\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Projects\SuperSpartyBros\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Projects\SuperSpartyBros\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Projects\SuperSpartyBros\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Projects\SuperSpartyBros\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Projects\SuperSpartyBros\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.265 seconds
-Platform assembly: C:\Projects\SuperSpartyBros\test_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Projects\SuperSpartyBros\test_Data\Managed\System.dll (this message is harmless)
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: C:\Projects\SuperSpartyBros\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Projects\SuperSpartyBros\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Projects\SuperSpartyBros\Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Projects\SuperSpartyBros\Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Projects\SuperSpartyBros\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Projects\SuperSpartyBros\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Projects\SuperSpartyBros\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Projects\SuperSpartyBros\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Projects\SuperSpartyBros\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Projects\SuperSpartyBros\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.185 seconds
+Platform assembly: C:\Projects\SuperSpartyBros\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Projects\SuperSpartyBros\Test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
-<RI.Hid> Failed to create device file:
- 2 Systém nemůže nalézt uvedený soubor.
-
- 
-(Filename:  Line: 54)
-
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.021108 ms
+UnloadTime: 0.881540 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2ed4 -> priority: 1 
+  Thread -> id: 17d8 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.847905 ms
+UnloadTime: 5.552937 ms
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 375.
-Total: 0.476870 ms (FindLiveObjects: 0.022616 ms CreateObjectMapping: 0.026947 ms MarkObjects: 0.419607 ms  DeleteObjects: 0.006255 ms)
+Total: 0.485039 ms (FindLiveObjects: 0.065441 ms CreateObjectMapping: 0.024251 ms MarkObjects: 0.388801 ms  DeleteObjects: 0.005774 ms)
 
 Player State reset.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.180867 ms
+UnloadTime: 0.987787 ms
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 945.
-Total: 0.626523 ms (FindLiveObjects: 0.094796 ms CreateObjectMapping: 0.038496 ms MarkObjects: 0.460990 ms  DeleteObjects: 0.031759 ms)
+Total: 0.511986 ms (FindLiveObjects: 0.080070 ms CreateObjectMapping: 0.070061 ms MarkObjects: 0.337218 ms  DeleteObjects: 0.023867 ms)
 
